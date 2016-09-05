@@ -1,4 +1,4 @@
-FROM debian:jessi
+FROM debian:jessie
 MAINTAINER Johannes Schickling "schickling.j@gmail.com"
 
 ENV DEBIAN_FRONTEND noninteractive
